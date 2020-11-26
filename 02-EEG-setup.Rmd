@@ -1,0 +1,4 @@
+# EEG setup {#EEG-setup}
+
+1. covid - sanitise everything 
+2. 

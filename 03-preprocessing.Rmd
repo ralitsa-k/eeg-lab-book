@@ -1,0 +1,24 @@
+# Preprocessing steps {#preprocessing}
+
+Ralie:
+1. Run **events_from_csv.R** in Z:/TOOLS/RiPE_soc/Beha_check
+This is the behavioural file which sends the events to the EEG machine. This step is to compare sent and received events later in M-lab. 
+This creates a csv file in each participant folder named dat_all_triggers.csv
+
+2. In EEG_preprocess folder. Open **extract_port_events.m** Choose appropriate triggers, and rename the fields of the struct with _onset, and _id. 
+This creates a .m files named 'all_events_and_behav_socRiPE.m' (in my case).
+
+3. Open **preprocess_brainamp_data.m** Fix the name of the .eeg file, initials of participants, etc. and run the script. This creates LP_socRiPE_filtered.mat (for example, for subject LP).
+
+4. Run **Epoch data.** epoch = Should be defined as the name of the field of the structure that is of interest. faces_onset in my case.
+This produces data epoched according to the offset values. 
+
+5. 
+
+4. 
+
+
+
+
+
+

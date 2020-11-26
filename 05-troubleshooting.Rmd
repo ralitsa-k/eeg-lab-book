@@ -1,0 +1,5 @@
+# Troubleshooting {#troubleshooting}
+
+If Syncbox connection error: USB reconnecting
+- check that bottom right corner of Brainvision says PassiveCap64.
+- if not passivecap64 > Open new project loading PassiveCap64. 
