@@ -2,7 +2,7 @@
 
 Ralie:
 1. Run **events_from_csv.R** in Z:/TOOLS/RiPE_soc/Beha_check
-This is the behavioural file which sends the events to the EEG machine. This step is to compare sent and received events later in M-lab. 
+This is the behavioural file which sends the events to the EEG machine. This step is to compare sent and received events later in Matlab. 
 This creates a csv file in each participant folder named dat_all_triggers.csv
 
 2. In EEG_preprocess folder. Open **extract_port_events.m** Choose appropriate triggers, and rename the fields of the struct with _onset, and _id. 

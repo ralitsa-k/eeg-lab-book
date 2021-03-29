@@ -1,4 +1,58 @@
 # EEG setup {#EEG-setup}
 
-1. covid - sanitise everything 
-2. 
+
+Steps in short:
+
+* Head size.
+* Cz position.
+* Cap on. 
+* Alcohol wipe skin. 
+* Attach 3 electrodes. 
+* Full all with gel.
+* Rub all.
+* Fill again.
+* Go inside, attach to amps. 
+* Green = Amp1, yellow = Amp2.
+* Amps on.
+* Check Ground, Ref, forehead (fix)
+* Check impedance at 0-100, then 0-50, and 0-20 scale.
+* Fix half head - fill with gel. 
+* Fix other half - fill with gel.
+* Repeat rub and fill if necessary. 
+* Show teeth clenching and eye squeeze. 
+* Eye-calibration. 
+* Save impedance. 
+* Start task.
+
+
+Steps detailed: 
+
+* Sit the participant on a chair outside the booth.
+* Measure head circumference just above the eyebrows. 
+* Measure the position of Cz electrode.
+* Take the middle point between the nasion and the inion and mark it. 
+* Take the middle point between the ears and align with the first point, make a bigger mark on the skin.
+* Use the cap with appropriate size and position by adjusting Cz, so that the mark is visible. 
+* Pull the cap down tight, strap, and if necessary use the chest strap. 
+* Clean the skin above the left eyebrow, just left of the chin, and behind the left ear with alcohol wipes.
+* Attach the stickers to the 3 loose electrodes and attach the electrodes to the cleaned areas. 
+* Fill wach electrode with a syringe by holding pushin the electrodes close to the head, do not use too much gel. 
+* Avoid connecting electrodes with hair strands. 
+* Rub each hole with a cotton bud. 
+* Fill each electrode once again. 
+* Go inside the booth and attach the amp1 to the cable with green dot and amp2 to the cable with yellow. 
+* Turn the amps on. 
+* Check the ground, reference, and forehead impedance. 
+* Go to Data and check the impedance of the rest of the electrodes by changing the scale from 0-100, then 0-50, and then 0-20
+* Aim for green/yellow dots by sideways motion (separates hair), or circling motion (rubs gel), or 360 degree motion (consistently improves impedance).
+* Show the participant the monitoring mode to explain what clencing the teeth, and squeezing the eyes does, and why it should be avoided. 
+* Staying with their teeth slightly apart helps. 
+* Explain what the blinks should be during the eye calibration, then play the eye calibration scenario 
+* Save impedances by following the instructions by Brain Vision. 
+* Do the experiment. 
+
+
+
+
+
+
